@@ -15,19 +15,6 @@ This project adopts a dual-approach methodology to optimize the accuracy and eff
 
 ![webapp](img/seg_result.jpg)
 
-## Team members
-------------------------------------
-|Team member| Github Link|
-|:---|:-----------:|
-|Harvey| [:link:](https://github.com/harveyphm)|
-|Haven| [:link:](https://github.com/daeullee12)|
-|Damilola| [:link:](https://github.com/0001) |
-|Onyi|  [:link:](https://github.com/0001) |
-|Quynh|  [:link:](https://github.com/0001) |
-|Felipe|  [:link:](https://github.com/0001) |
-|Abolade|  [:link:](https://github.com/0001) |
-|Hussain|  [:link:](https://github.com/0001) |
-
 
 ## Dataset
 ------------------------------------
@@ -72,15 +59,6 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-<!-- Authors -->
-## Authors
-
-Harvey Pham 
-[@Linkedin](https://www.linkedin.com/in/harveyphm/) 
-Email: qhuy.phm@gmail.com
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
